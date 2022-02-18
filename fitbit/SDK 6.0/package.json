@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "6e8a1fab-4b37-4040-aa16-e3458cb7b255",
+    "appType": "app",
+    "appDisplayName": "OSC HR",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "OSC HR"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
