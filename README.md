@@ -1,4 +1,4 @@
-# VRChat Fitbit Heartrate OSC
+# Fitbit Heartrate OSC
 Send your heartrate to a vrchat parameter from a fitbit using OSC
 
 ### Setup
@@ -12,4 +12,3 @@ Send your heartrate to a vrchat parameter from a fitbit using OSC
 ### Notes / Credits
 * App format copied from [heart-of-frogg](https://github.com/bfroggio/heart-of-frogg/)
 * While using the app you must connect your watch to your phone via bluetooth, and your phone to the same wifi as your computer
-* I'm working on getting fitbit app to send OSC data directly to vrchat without the server hosted on PC, if I get that working i'll push it here
